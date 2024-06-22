@@ -1,0 +1,7 @@
+{
+  "name": "USDT",
+  "symbol": "USDT",
+  "description": "A test token for the Solana Devnet.",
+  "image": "https://example.com/image.png",
+  "attributes": []
+}
